@@ -11,3 +11,11 @@ print(name + "is " + age + " years old")
 
 is_empty = True
 ```
+## String
+``` Python
+word = "Hello"
+#String concatenation
+print(word + "world")
+print(word + "world")
+```
+
