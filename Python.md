@@ -16,6 +16,7 @@ is_empty = True
 word = "Hello"
 #String concatenation
 print(word + "world")
-print(word + "world")
+#Length of string
+len(word)
 ```
 
